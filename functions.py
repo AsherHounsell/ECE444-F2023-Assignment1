@@ -1,1 +1,6 @@
-print("Test2 to make sure I am using only AsherHounsell git account")
+class utils:
+    def reversed(integer):
+        return int(str(integer)[::-1])
+    
+
+print(utils.reversed(345))
