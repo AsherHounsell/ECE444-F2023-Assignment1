@@ -1,10 +1,10 @@
 import functions
 
-print(functions.utils.reversed("345"))
-print(functions.utils.reversed(345.5398))
-print(functions.utils.reversed(345))
+print(functions.utils.reversed("42"))
+print(functions.utils.reversed(42.4242))
+print(functions.utils.reversed(42))
 
 
-print(functions.utils.formatter("19.432"))
-print(functions.utils.formatter(19.432))
-print(functions.utils.formatter(19))
+print(functions.utils.formatter("42.42"))
+print(functions.utils.formatter(42.42))
+print(functions.utils.formatter(42))
