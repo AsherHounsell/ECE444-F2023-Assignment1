@@ -11,4 +11,8 @@ Screenshot of successful PR merge:
 
 <img width="936" alt="Screen Shot 2023-09-07 at 4 31 54 PM" src="https://github.com/AsherHounsell/ECE444-F2023-Assignment1/assets/61854862/31c99538-675e-484d-af5d-885b16104e50">
 
+Screenshot of successful commits for Unit tests:
+
+![image](https://github.com/AsherHounsell/ECE444-F2023-Assignment1/assets/61854862/c3629e60-4c06-4747-80e6-c5d059626f4f)
+
 
