@@ -1,6 +1,7 @@
 class utils:
     def reversed(integer):
-        return int(str(integer)[::-1])
+        return str(integer)[::-1]
     
-
-print(utils.reversed(345))
+    def formatter(integer):
+        return [bin(int(float(integer))),oct(int(float(integer)))]
+    
