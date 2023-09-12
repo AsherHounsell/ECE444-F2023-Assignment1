@@ -14,6 +14,9 @@
 ## Activity 4: Screenshot of successful commits for Unit tests:
 
 ![image](https://github.com/AsherHounsell/ECE444-F2023-Assignment1/assets/61854862/c3629e60-4c06-4747-80e6-c5d059626f4f)
+Unit tests + fixed functions commit:
+![image](https://github.com/AsherHounsell/ECE444-F2023-Assignment1/assets/61854862/0308d065-8811-474f-be44-cb820e4c7eb5)
+
 
 ## Activity 5: Screenshots of Rebase process to get order of commits c3 > c4 > c1 > c2:
 
